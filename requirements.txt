@@ -1,0 +1,7 @@
+# requirements.txt
+
+Flask
+python-dotenv
+google-cloud-aiplatform
+requests
+google-auth
